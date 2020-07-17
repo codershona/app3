@@ -1,5 +1,6 @@
 body {
     color: #333333;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(163,175,243,1) 0%, rgba(220,182,232,1) 100.2% );
     font-family: arial;
     max-width: 650px;
     margin: 0 auto;
@@ -8,6 +9,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh
+
 }
 
 .main-content {
